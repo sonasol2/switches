@@ -1,0 +1,15 @@
+/Users/sergejpopovic/Projects/switches/switches/bin/Debug/net7.0/switches
+/Users/sergejpopovic/Projects/switches/switches/bin/Debug/net7.0/switches.deps.json
+/Users/sergejpopovic/Projects/switches/switches/bin/Debug/net7.0/switches.runtimeconfig.json
+/Users/sergejpopovic/Projects/switches/switches/bin/Debug/net7.0/switches.dll
+/Users/sergejpopovic/Projects/switches/switches/bin/Debug/net7.0/switches.pdb
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.csproj.AssemblyReference.cache
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.AssemblyInfoInputs.cache
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.AssemblyInfo.cs
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.csproj.CoreCompileInputs.cache
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.dll
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/refint/switches.dll
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.pdb
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/switches.genruntimeconfig.cache
+/Users/sergejpopovic/Projects/switches/switches/obj/Debug/net7.0/ref/switches.dll
